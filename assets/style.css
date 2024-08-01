@@ -530,3 +530,15 @@ span{
 }
 
 
+.Listofquiz{
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    font-size: 2rem;
+}
+.Listofquiz a{
+    color: var(--text-color);
+}
+.Listofquiz a:hover{
+    color: var(--main-color);
+}
